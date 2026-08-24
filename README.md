@@ -61,7 +61,7 @@ The dashboard provides an interactive overview of survey results and allows user
 
 <p align="center">
   <a href="https://www.oecd.org/en/publications/states-of-fragility-2025_81982370-en.html">
-    <img src="assets/states-of-fragility-2025.png" alt="OECD States of Fragility 2025" width="300">
+    <img src="states-of-fragility-2025.png" alt="OECD States of Fragility 2025" width="300">
   </a>
 </p>
 

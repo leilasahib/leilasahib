@@ -2,7 +2,7 @@
 
 I have experience in project management, PMO, data analysis and business transformation across international and financial environments.
 
-My background includes **IT project portfolio management, risk monitoring, executive reporting, KPI tracking and data-driven dashboard development** to support decision-making.
+My background includes IT project portfolio management, risk monitoring, executive reporting, KPI tracking and data-driven dashboard development to support decision-making.
 
 ## 💼 Areas of Expertise
 

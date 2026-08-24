@@ -55,6 +55,41 @@ The dashboard provides an interactive overview of survey results and allows user
 
 ---
 
+## 📚 Publications & Research
+
+### 🌍 OECD — States of Fragility 2025
+
+<p align="center">
+  <a href="https://www.oecd.org/en/publications/states-of-fragility-2025_81982370-en.html">
+    <img src="assets/states-of-fragility-2025.png" alt="OECD States of Fragility 2025" width="300">
+  </a>
+</p>
+
+I contributed to the **OECD's States of Fragility 2025**, a flagship report examining global fragility, conflict, development and resilience through the OECD's multidimensional fragility framework.
+
+Published by **OECD Publishing** in February 2025, the report analyses fragility across political, economic, environmental, security, societal and human dimensions.
+
+📖 **[View the publication →](https://www.oecd.org/en/publications/states-of-fragility-2025_81982370-en.html)**
+
+📄 **[Read the full report (PDF) →](https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/02/states-of-fragility-2025_c9080496/81982370-en.pdf)**
+
+---
+### ✈️ Clearing the Air: Lessons from the EU ETS for Low Carbon Aviation
+
+**Council on Economic Policies (CEP) · March 2025**
+
+Co-authored with **Patrick Lenain**, this article examines the role of carbon pricing in the decarbonisation of aviation and draws lessons from the **European Union Emissions Trading System (EU ETS)**.
+
+The analysis explores how carbon pricing can influence airline behaviour, fleet efficiency and aviation emissions, as well as the implications of extending carbon pricing mechanisms.
+
+**Authors:** Patrick Lenain & Leila Sahib
+
+**Topics:** Carbon Pricing · EU ETS · Sustainable Aviation · Climate Policy · Decarbonisation
+
+✍️ **[Read the article on the Council on Economic Policies →](https://www.cepweb.org/clearing-the-air-lessons-from-the-eu-ets-for-low-carbon-aviation/)**
+
+---
+
 ## 🎓 Education
 
 **MBA in International Business**  
